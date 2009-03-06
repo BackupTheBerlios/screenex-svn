@@ -1,0 +1,10 @@
+	Зависимости приложения
+
+Urwid console UI library
+    http://excess.org/urwid/
+    Версия не ниже 0.9.8.1
+    note: для работы этого модуля libcurses не нужен.
+
+Pexpect 'expect'-like module
+    http://www.noah.org/wiki/Pexpect
+    Версия не ниже 2.3
